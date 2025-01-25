@@ -33,6 +33,8 @@ body {
 .content-card {
   padding: 20px;
   min-height: 200px;
+  max-width: 320px;
+  align-items: center;
   font-family: sans-serif;
   background-color: wheat;
 }
